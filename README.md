@@ -16,11 +16,9 @@ This project is designed for educational purposes, offering practical examples o
 Clone the project to your local machine with the following command:
 
 ```bash
-git clone https://yourrepositoryurl/java-learn.git
+git clone https://github.com/pedro-lucinda/design-patterns-java.git
 cd java-learn
 ```
-
-*Note: Replace `https://yourrepositoryurl/java-learn.git` with the actual URL of your repository.*
 
 ### Build the Project
 
